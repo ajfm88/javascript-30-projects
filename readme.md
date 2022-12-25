@@ -6,3 +6,4 @@
 | 02  |                [Whack-A-Mole!](https://github.com/ajfm88/javascript-30-projects/tree/main/02-whack-a-mole)                 |         [Live Demo](https://whack-a-mole.onrender.com)         |
 | 03  |             [Guess My Number!](https://github.com/ajfm88/javascript-30-projects/tree/main/03-guess-my-number)              |     [Live Demo](https://guess-my-number-zk1u.onrender.com)     |
 | 04  |                   [Just Paint](https://github.com/ajfm88/javascript-30-projects/tree/main/04-just-paint)                   |          [Live Demo](https://just-paint.onrender.com)          |
+| 05  |            [Animated Template](https://github.com/ajfm88/javascript-30-projects/tree/main/05-animated-template)            |      [Live Demo](https://animated-template.onrender.com)       |
