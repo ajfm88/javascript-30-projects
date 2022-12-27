@@ -8,3 +8,4 @@
 | 04  |                   [Just Paint](https://github.com/ajfm88/javascript-30-projects/tree/main/04-just-paint)                   |          [Live Demo](https://just-paint.onrender.com)          |
 | 05  |            [Animated Template](https://github.com/ajfm88/javascript-30-projects/tree/main/05-animated-template)            |      [Live Demo](https://animated-template.onrender.com)       |
 | 06  |                  [Candy Crush](https://github.com/ajfm88/javascript-30-projects/tree/main/06-candy-crush)                  |        [Live Demo](https://js-candy-crush.onrender.com)        |
+| 07  |             [Wikipedia Search](https://github.com/ajfm88/javascript-30-projects/tree/main/07-wikipedia-search)             |         [Live Demo](https://js-wikipedia.onrender.com)         |
