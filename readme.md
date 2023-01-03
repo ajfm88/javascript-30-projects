@@ -15,3 +15,4 @@
 | 11  |                         [2048](https://github.com/ajfm88/javascript-30-projects/tree/main/11-2048)                         |           [Live Demo](https://js-2048.onrender.com)            |
 | 12  |                [RPG Card Game](https://github.com/ajfm88/javascript-30-projects/tree/main/12-rpg-card-game)                |        [Live Demo](https://rpg-card-game.onrender.com)         |
 | 13  |                      [Bankist](https://github.com/ajfm88/javascript-30-projects/tree/main/13-bankist)                      |       [Live Demo](https://bankist-website.onrender.com)        |
+| 14  |         [Chrome Dinosaur Game](https://github.com/ajfm88/javascript-30-projects/tree/main/14-chrome-dinosaur-game)         |   [Live Demo](https://js-chrome-dinosaur-game.onrender.com)    |
