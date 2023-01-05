@@ -17,3 +17,4 @@
 | 13  |                      [Bankist](https://github.com/ajfm88/javascript-30-projects/tree/main/13-bankist)                      |       [Live Demo](https://bankist-website.onrender.com)        |
 | 14  |         [Chrome Dinosaur Game](https://github.com/ajfm88/javascript-30-projects/tree/main/14-chrome-dinosaur-game)         |   [Live Demo](https://js-chrome-dinosaur-game.onrender.com)    |
 | 15  |         [Cocktails API Search](https://github.com/ajfm88/javascript-30-projects/tree/main/15-cocktails-api-search)         |     [Live Demo](https://cocktails-api-search.onrender.com)     |
+| 16  |                  [Minesweeper](https://github.com/ajfm88/javascript-30-projects/tree/main/16-minesweeper)                  |        [Live Demo](https://js-minesweeper.onrender.com)        |
