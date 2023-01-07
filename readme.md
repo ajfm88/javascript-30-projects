@@ -19,3 +19,4 @@
 | 15  |         [Cocktails API Search](https://github.com/ajfm88/javascript-30-projects/tree/main/15-cocktails-api-search)         |     [Live Demo](https://cocktails-api-search.onrender.com)     |
 | 16  |                  [Minesweeper](https://github.com/ajfm88/javascript-30-projects/tree/main/16-minesweeper)                  |        [Live Demo](https://js-minesweeper.onrender.com)        |
 | 17  |                       [Wordle](https://github.com/ajfm88/javascript-30-projects/tree/main/17-wordle)                       |       [Live Demo](https://js-wordle-clone.onrender.com)        |
+| 18  |                        [Mapty](https://github.com/ajfm88/javascript-30-projects/tree/main/18-mapty)                        |  [Live Demo](https://mapty-workout-tracking-app.onrender.com)  |
