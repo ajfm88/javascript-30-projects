@@ -22,3 +22,4 @@
 | 18  |                        [Mapty](https://github.com/ajfm88/javascript-30-projects/tree/main/18-mapty)                        |  [Live Demo](https://mapty-workout-tracking-app.onrender.com)  |
 | 19  |                         [Pong](https://github.com/ajfm88/javascript-30-projects/tree/main/19-pong)                         |           [Live Demo](https://js-pong.onrender.com)            |
 | 20  |               [Space Invaders](https://github.com/ajfm88/javascript-30-projects/tree/main/20-space-invaders)               |      [Live Demo](https://js-space-invaders.onrender.com)       |
+| 21  |                  [Comfy Store](https://github.com/ajfm88/javascript-30-projects/tree/main/21-comfy-store)                  |         [Live Demo](https://comfy-store.onrender.com)          |
