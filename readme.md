@@ -24,3 +24,4 @@
 | 20  |               [Space Invaders](https://github.com/ajfm88/javascript-30-projects/tree/main/20-space-invaders)               |      [Live Demo](https://js-space-invaders.onrender.com)       |
 | 21  |                  [Comfy Store](https://github.com/ajfm88/javascript-30-projects/tree/main/21-comfy-store)                  |         [Live Demo](https://comfy-store.onrender.com)          |
 | 22  |                    [Solitaire](https://github.com/ajfm88/javascript-30-projects/tree/main/22-solitaire)                    |         [Live Demo](https://js-solitaire.onrender.com)         |
+| 23  |                      [Forkify](https://github.com/ajfm88/javascript-30-projects/tree/main/23-forkify)                      |    [Live Demo](https://forkify-recipe-search.onrender.com)     |
