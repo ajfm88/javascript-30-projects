@@ -1,0 +1,1643 @@
+{
+  "id": 185,
+  "number": 1,
+  "file": "level185",
+  "name": "level185",
+  "size": {
+    "width": 5,
+    "height": 4
+  },
+  "type": 0,
+  "room": [
+    {
+      "id": 16,
+      "tile": [
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 3,
+          "modifier": 0
+        },
+        {
+          "element": 0,
+          "modifier": 1
+        },
+        {
+          "element": 1,
+          "modifier": 0
+        },
+        {
+          "element": 15,
+          "modifier": 7
+        },
+        {
+          "element": 1,
+          "modifier": 0
+        },
+        {
+          "element": 0,
+          "modifier": 2
+        },
+        {
+          "element": 0,
+          "modifier": 2
+        },
+        {
+          "element": 0,
+          "modifier": 2
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 3,
+          "modifier": 0
+        },
+        {
+          "element": 0,
+          "modifier": 1
+        },
+        {
+          "element": 19,
+          "modifier": 0
+        },
+        {
+          "element": 2,
+          "modifier": 0
+        },
+        {
+          "element": 19,
+          "modifier": 0
+        },
+        {
+          "element": 16,
+          "modifier": 0
+        },
+        {
+          "element": 17,
+          "modifier": 0
+        },
+        {
+          "element": 1,
+          "modifier": 1
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 3,
+          "modifier": 0
+        },
+        {
+          "element": 0,
+          "modifier": 1
+        },
+        {
+          "element": 19,
+          "modifier": 0
+        },
+        {
+          "element": 3,
+          "modifier": 0
+        },
+        {
+          "element": 2,
+          "modifier": 0
+        },
+        {
+          "element": 19,
+          "modifier": 0
+        },
+        {
+          "element": 1,
+          "modifier": 1
+        },
+        {
+          "element": 11,
+          "modifier": 0
+        },
+        {
+          "element": 19,
+          "modifier": 0
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "tile": [
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 0,
+          "modifier": 2
+        },
+        {
+          "element": 0,
+          "modifier": 2
+        },
+        {
+          "element": 0,
+          "modifier": 0
+        },
+        {
+          "element": 1,
+          "modifier": 2
+        },
+        {
+          "element": 1,
+          "modifier": 2
+        },
+        {
+          "element": 10,
+          "modifier": 2
+        },
+        {
+          "element": 1,
+          "modifier": 1
+        },
+        {
+          "element": 21,
+          "modifier": 0
+        },
+        {
+          "element": 3,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 0,
+          "modifier": 2
+        },
+        {
+          "element": 19,
+          "modifier": 0
+        },
+        {
+          "element": 14,
+          "modifier": 0
+        },
+        {
+          "element": 3,
+          "modifier": 0
+        },
+        {
+          "element": 1,
+          "modifier": 0
+        },
+        {
+          "element": 11,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 0,
+          "modifier": 1
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 11,
+          "modifier": 0
+        },
+        {
+          "element": 3,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 1
+        },
+        {
+          "element": 1,
+          "modifier": 1
+        },
+        {
+          "element": 3,
+          "modifier": 0
+        },
+        {
+          "element": 19,
+          "modifier": 0
+        },
+        {
+          "element": 1,
+          "modifier": 0
+        },
+        {
+          "element": 0,
+          "modifier": 1
+        },
+        {
+          "element": 1,
+          "modifier": 0
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "tile": [
+        {
+          "element": 10,
+          "modifier": 4
+        },
+        {
+          "element": 1,
+          "modifier": 2
+        },
+        {
+          "element": 10,
+          "modifier": 4
+        },
+        {
+          "element": 1,
+          "modifier": 0
+        },
+        {
+          "element": 1,
+          "modifier": 2
+        },
+        {
+          "element": 1,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 11,
+          "modifier": 0
+        },
+        {
+          "element": 3,
+          "modifier": 0
+        },
+        {
+          "element": 11,
+          "modifier": 0
+        },
+        {
+          "element": 3,
+          "modifier": 0
+        },
+        {
+          "element": 11,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 1
+        },
+        {
+          "element": 1,
+          "modifier": 0
+        },
+        {
+          "element": 10,
+          "modifier": 1
+        },
+        {
+          "element": 1,
+          "modifier": 1
+        },
+        {
+          "element": 3,
+          "modifier": 0
+        },
+        {
+          "element": 1,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 1
+        },
+        {
+          "element": 0,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 1
+        },
+        {
+          "element": 15,
+          "modifier": 4
+        },
+        {
+          "element": 20,
+          "modifier": 1
+        }
+      ]
+    },
+    {
+      "id": -1
+    },
+    {
+      "id": -1
+    },
+    {
+      "id": 21,
+      "tile": [
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 3,
+          "modifier": 0
+        },
+        {
+          "element": 0,
+          "modifier": 1
+        },
+        {
+          "element": 19,
+          "modifier": 0
+        },
+        {
+          "element": 1,
+          "modifier": 1
+        },
+        {
+          "element": 19,
+          "modifier": 0
+        },
+        {
+          "element": 1,
+          "modifier": 1
+        },
+        {
+          "element": 4,
+          "modifier": 0
+        },
+        {
+          "element": 11,
+          "modifier": 0
+        },
+        {
+          "element": 3,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 3,
+          "modifier": 0
+        },
+        {
+          "element": 0,
+          "modifier": 2
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 11,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 3,
+          "modifier": 0
+        },
+        {
+          "element": 0,
+          "modifier": 2
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 11,
+          "modifier": 0
+        },
+        {
+          "element": 1,
+          "modifier": 2
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "tile": [
+        {
+          "element": 1,
+          "modifier": 1
+        },
+        {
+          "element": 1,
+          "modifier": 1
+        },
+        {
+          "element": 6,
+          "modifier": 9
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 3,
+          "modifier": 0
+        },
+        {
+          "element": 0,
+          "modifier": 2
+        },
+        {
+          "element": 20,
+          "modifier": 1
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 3,
+          "modifier": 0
+        },
+        {
+          "element": 0,
+          "modifier": 2
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 3,
+          "modifier": 0
+        },
+        {
+          "element": 11,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "tile": [
+        {
+          "element": 10,
+          "modifier": 0
+        },
+        {
+          "element": 1,
+          "modifier": 1
+        },
+        {
+          "element": 4,
+          "modifier": 1
+        },
+        {
+          "element": 1,
+          "modifier": 2
+        },
+        {
+          "element": 0,
+          "modifier": 0
+        },
+        {
+          "element": 4,
+          "modifier": 0
+        },
+        {
+          "element": 1,
+          "modifier": 2
+        },
+        {
+          "element": 21,
+          "modifier": 0
+        },
+        {
+          "element": 22,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 15,
+          "modifier": 0
+        },
+        {
+          "element": 6,
+          "modifier": 5
+        },
+        {
+          "element": 4,
+          "modifier": 0
+        },
+        {
+          "element": 15,
+          "modifier": 1
+        },
+        {
+          "element": 0,
+          "modifier": 3
+        },
+        {
+          "element": 4,
+          "modifier": 0
+        },
+        {
+          "element": 15,
+          "modifier": 2
+        },
+        {
+          "element": 19,
+          "modifier": 0
+        },
+        {
+          "element": 21,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 11,
+          "modifier": 0
+        },
+        {
+          "element": 21,
+          "modifier": 0
+        },
+        {
+          "element": 4,
+          "modifier": 0
+        },
+        {
+          "element": 19,
+          "modifier": 0
+        },
+        {
+          "element": 1,
+          "modifier": 2
+        },
+        {
+          "element": 4,
+          "modifier": 0
+        },
+        {
+          "element": 1,
+          "modifier": 1
+        },
+        {
+          "element": 21,
+          "modifier": 0
+        },
+        {
+          "element": 1,
+          "modifier": 2
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        }
+      ]
+    },
+    {
+      "id": -1
+    },
+    {
+      "id": -1
+    },
+    {
+      "id": 8,
+      "tile": [
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 3,
+          "modifier": 0
+        },
+        {
+          "element": 0,
+          "modifier": 2
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 11,
+          "modifier": 0
+        },
+        {
+          "element": 1,
+          "modifier": 1
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 3,
+          "modifier": 0
+        },
+        {
+          "element": 0,
+          "modifier": 2
+        },
+        {
+          "element": 3,
+          "modifier": 0
+        },
+        {
+          "element": 10,
+          "modifier": 5
+        },
+        {
+          "element": 20,
+          "modifier": 1
+        },
+        {
+          "element": 11,
+          "modifier": 0
+        },
+        {
+          "element": 1,
+          "modifier": 2
+        },
+        {
+          "element": 1,
+          "modifier": 2
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 3,
+          "modifier": 0
+        },
+        {
+          "element": 0,
+          "modifier": 2
+        },
+        {
+          "element": 3,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 1,
+          "modifier": 2
+        },
+        {
+          "element": 1,
+          "modifier": 2
+        },
+        {
+          "element": 11,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "tile": [
+        {
+          "element": 19,
+          "modifier": 0
+        },
+        {
+          "element": 1,
+          "modifier": 1
+        },
+        {
+          "element": 10,
+          "modifier": 1
+        },
+        {
+          "element": 1,
+          "modifier": 1
+        },
+        {
+          "element": 3,
+          "modifier": 0
+        },
+        {
+          "element": 10,
+          "modifier": 1
+        },
+        {
+          "element": 1,
+          "modifier": 1
+        },
+        {
+          "element": 11,
+          "modifier": 0
+        },
+        {
+          "element": 19,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 1
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 2,
+          "modifier": 0
+        },
+        {
+          "element": 11,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 1,
+          "modifier": 0
+        },
+        {
+          "element": 3,
+          "modifier": 0
+        },
+        {
+          "element": 21,
+          "modifier": 0
+        },
+        {
+          "element": 3,
+          "modifier": 0
+        },
+        {
+          "element": 21,
+          "modifier": 0
+        },
+        {
+          "element": 3,
+          "modifier": 0
+        },
+        {
+          "element": 1,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 2,
+          "modifier": 0
+        },
+        {
+          "element": 4,
+          "modifier": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tile": [
+        {
+          "element": 0,
+          "modifier": 2
+        },
+        {
+          "element": 1,
+          "modifier": 1
+        },
+        {
+          "element": 1,
+          "modifier": 1
+        },
+        {
+          "element": 11,
+          "modifier": 0
+        },
+        {
+          "element": 1,
+          "modifier": 1
+        },
+        {
+          "element": 3,
+          "modifier": 0
+        },
+        {
+          "element": 1,
+          "modifier": 1
+        },
+        {
+          "element": 1,
+          "modifier": 1
+        },
+        {
+          "element": 1,
+          "modifier": 1
+        },
+        {
+          "element": 1,
+          "modifier": 1
+        },
+        {
+          "element": 2,
+          "modifier": 0
+        },
+        {
+          "element": 11,
+          "modifier": 0
+        },
+        {
+          "element": 3,
+          "modifier": 0
+        },
+        {
+          "element": 11,
+          "modifier": 0
+        },
+        {
+          "element": 15,
+          "modifier": 3
+        },
+        {
+          "element": 3,
+          "modifier": 0
+        },
+        {
+          "element": 11,
+          "modifier": 0
+        },
+        {
+          "element": 10,
+          "modifier": 1
+        },
+        {
+          "element": 3,
+          "modifier": 0
+        },
+        {
+          "element": 21,
+          "modifier": 0
+        },
+        {
+          "element": 1,
+          "modifier": 1
+        },
+        {
+          "element": 1,
+          "modifier": 2
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 2,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 15,
+          "modifier": 3
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "tile": [
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 1
+        },
+        {
+          "element": 20,
+          "modifier": 1
+        },
+        {
+          "element": 20,
+          "modifier": 1
+        },
+        {
+          "element": 20,
+          "modifier": 1
+        },
+        {
+          "element": 20,
+          "modifier": 1
+        },
+        {
+          "element": 20,
+          "modifier": 1
+        },
+        {
+          "element": 20,
+          "modifier": 1
+        },
+        {
+          "element": 20,
+          "modifier": 1
+        },
+        {
+          "element": 20,
+          "modifier": 1
+        },
+        {
+          "element": 20,
+          "modifier": 1
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "tile": [
+        {
+          "element": 15,
+          "modifier": 3
+        },
+        {
+          "element": 0,
+          "modifier": 0
+        },
+        {
+          "element": 0,
+          "modifier": 2
+        },
+        {
+          "element": 0,
+          "modifier": 2
+        },
+        {
+          "element": 0,
+          "modifier": 2
+        },
+        {
+          "element": 0,
+          "modifier": 2
+        },
+        {
+          "element": 0,
+          "modifier": 2
+        },
+        {
+          "element": 0,
+          "modifier": 2
+        },
+        {
+          "element": 0,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 3,
+          "modifier": 0
+        },
+        {
+          "element": 1,
+          "modifier": 1
+        },
+        {
+          "element": 19,
+          "modifier": 0
+        },
+        {
+          "element": 16,
+          "modifier": 0
+        },
+        {
+          "element": 17,
+          "modifier": 0
+        },
+        {
+          "element": 19,
+          "modifier": 0
+        },
+        {
+          "element": 30,
+          "modifier": 0
+        },
+        {
+          "element": 1,
+          "modifier": 1
+        },
+        {
+          "element": 1,
+          "modifier": 1
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "tile": [
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 3,
+          "modifier": 0
+        },
+        {
+          "element": 0,
+          "modifier": 2
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 11,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 3,
+          "modifier": 0
+        },
+        {
+          "element": 11,
+          "modifier": 0
+        },
+        {
+          "element": 22,
+          "modifier": 0
+        },
+        {
+          "element": 21,
+          "modifier": 0
+        },
+        {
+          "element": 11,
+          "modifier": 0
+        },
+        {
+          "element": 11,
+          "modifier": 0
+        },
+        {
+          "element": 11,
+          "modifier": 0
+        },
+        {
+          "element": 1,
+          "modifier": 1
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        },
+        {
+          "element": 10,
+          "modifier": 5
+        },
+        {
+          "element": 14,
+          "modifier": 0
+        },
+        {
+          "element": 10,
+          "modifier": 1
+        },
+        {
+          "element": 10,
+          "modifier": 1
+        },
+        {
+          "element": 30,
+          "modifier": 0
+        },
+        {
+          "element": 14,
+          "modifier": 0
+        },
+        {
+          "element": 10,
+          "modifier": 2
+        },
+        {
+          "element": 15,
+          "modifier": 6
+        },
+        {
+          "element": 20,
+          "modifier": 0
+        }
+      ]
+    },
+    {
+      "id": -1
+    },
+    {
+      "id": -1
+    },
+    {
+      "id": -1
+    },
+    {
+      "id": -1
+    }
+  ],
+  "guards": [
+    {
+      "room": 16,
+      "location": 3,
+      "skill": 3,
+      "colors": 7,
+      "type": "guard",
+      "direction": 1,
+      "bias": 2
+    },
+    {
+      "room": 21,
+      "location": 6,
+      "skill": 0,
+      "colors": 2,
+      "type": "guard",
+      "direction": -1
+    },
+    {
+      "room": 1,
+      "location": 2,
+      "skill": 9,
+      "colors": 7,
+      "type": "guard",
+      "direction": 1
+    },
+    {
+      "room": 2,
+      "location": 9,
+      "skill": 0,
+      "colors": 5,
+      "type": "guard",
+      "direction": 1
+    }
+  ],
+  "events": [
+    {
+      "number": 1,
+      "room": 1,
+      "location": 16,
+      "next": 0
+    },
+    {
+      "number": 2,
+      "room": 1,
+      "location": 13,
+      "next": 0
+    },
+    {
+      "number": 3,
+      "room": 1,
+      "location": 23,
+      "next": 0
+    },
+    {
+      "number": 4,
+      "room": 6,
+      "location": 30,
+      "next": 0
+    },
+    {
+      "number": 5,
+      "room": 1,
+      "location": 6,
+      "next": 0
+    },
+    {
+      "number": 6,
+      "room": 1,
+      "location": 13,
+      "next": 0
+    },
+    {
+      "number": 7,
+      "room": 16,
+      "location": 18,
+      "next": 0
+    },
+    {
+      "number": 8,
+      "room": 16,
+      "location": 17,
+      "next": 0
+    },
+    null,
+    {
+      "number": 10,
+      "room": 1,
+      "location": 3,
+      "next": 1
+    },
+    {
+      "number": 11,
+      "room": 5,
+      "location": 6,
+      "next": 0
+    }
+  ],
+  "prince": {
+    "location": 3,
+    "room": 1,
+    "direction": 1,
+    "turn": false,
+    "offset": 7,
+    "sword": false
+  }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Prince Of Persia JS",
+    "short_name": "Prince Of Persia JS",
+    "description": "An HTML5 / JavaScript ES6 port of Prince of Persia",
+    "icons": [{
+        "src": "assets/web/touch-icon-192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+    }],
+    "display": "fullscreen",
+    "orientation": "landscape"
+}

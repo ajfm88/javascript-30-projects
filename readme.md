@@ -27,3 +27,4 @@
 | 23  |                      [Forkify](https://github.com/ajfm88/javascript-30-projects/tree/main/23-forkify)                      |    [Live Demo](https://forkify-recipe-search.onrender.com)     |
 | 24  |            [Two-Player Tetris](https://github.com/ajfm88/javascript-30-projects/tree/main/24-two-player-tetris)            |      [Live Demo](https://two-player-tetris.onrender.com)       |
 | 25  |     [Foodie - Burger Joint Website](https://github.com/ajfm88/javascript-30-projects/tree/main/25-foodie-burger-joint)     |        [Live Demo](https://foodie-burger.onrender.com)         |
+| 26  |             [Prince Of Persia](https://github.com/ajfm88/javascript-30-projects/tree/main/26-prince-of-persia)             |               [Live Demo](https://princejs.com)                |

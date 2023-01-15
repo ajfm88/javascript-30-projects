@@ -1,0 +1,36 @@
+{
+  "name": "prince-of-persia-js",
+  "version": "1.0.0",
+  "description": "Prince of Persia (JavaScript)",
+  "main": "index.js",
+  "directories": {
+    "assets": "assets",
+    "converter": "converter",
+    "lib": "lib",
+    "src": "src"
+  },
+  "scripts": {
+    "start": "http-server",
+    "convert": "node converter/index.js",
+    "convert:own:99": "node converter/index.js './converter/98 - Own/level1.xml' 98",
+    "convert:own:100": "node converter/index.js './converter/98 - Own/level2.xml' 98",
+    "lint": "npm run prettier && eslint . --fix",
+    "prettier": "prettier \"**/*.{js,json,md,html}\" --write --loglevel error"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajfm88/javascript-30-projects.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ajfm88/javascript-30-projects/issues"
+  },
+  "homepage": "https://github.com/ajfm88/javascript-30-projects/tree/main/26-prince-of-persia#readme",
+  "devDependencies": {
+    "eslint": "^8.27.0",
+    "eslint-config": "^0.3.0",
+    "eslint-config-prettier": "^8.5.0",
+    "http-server": "^14.1.1",
+    "prettier": "^2.7.1",
+    "xml2json": "^0.12.0"
+  }
+}
