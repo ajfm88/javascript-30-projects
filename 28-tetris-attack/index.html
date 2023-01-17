@@ -1,0 +1,35 @@
+<!DOCTYPE >
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Tetris Attack JS</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div id="phaser" style="display: none"></div>
+    <div id="game">
+      <div id="img-container"><img src="1200px-Tetris_Attack_logo.png" /></div>
+      <canvas id="tetris-canvas"></canvas>
+    </div>
+    <div class="controls">
+      Controls:<br />
+      Arrow keys to move<br />
+      Space to swap<br />
+      C to push the blocks up
+
+      <br /><br />
+      Find the source on
+      <a
+        href="https://github.com/ajfm88/javascript-30-projects/tree/main/28-tetris-attack"
+        >Github</a
+      >.
+    </div>
+  </body>
+  <!-- Add the game files -->
+  <script type="text/javascript" src="libs/mainloop.min.js"></script>
+  <script type="text/javascript" src="libs/keydrown.min.js"></script>
+  <script type="text/javascript" src="global_constants.js"></script>
+  <script type="text/javascript" src="draw.js"></script>
+  <script type="text/javascript" src="objects.js"></script>
+  <script type="text/javascript" src="tetris-attack.js"></script>
+</html>
