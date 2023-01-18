@@ -30,3 +30,4 @@
 | 26  |             [Prince Of Persia](https://github.com/ajfm88/javascript-30-projects/tree/main/26-prince-of-persia)             |               [Live Demo](https://princejs.com)                |
 | 27  |            [Grilli Restaurant](https://github.com/ajfm88/javascript-30-projects/tree/main/27-grilli-restaurant)            |            [Live Demo](https://grilli.onrender.com)            |
 | 28  |                [Tetris Attack](https://github.com/ajfm88/javascript-30-projects/tree/main/28-tetris-attack)                |       [Live Demo](https://js-tetris-attack.onrender.com)       |
+| 29  |                      [FitLife](https://github.com/ajfm88/javascript-30-projects/tree/main/29-fitlife)                      |           [Live Demo](https://fitlife.onrender.com)            |
