@@ -6,7 +6,7 @@
 | 02  |                [Whack-A-Mole!](https://github.com/ajfm88/javascript-30-projects/tree/main/02-whack-a-mole)                 |         [Live Demo](https://whack-a-mole.onrender.com)         |
 | 03  |             [Guess My Number!](https://github.com/ajfm88/javascript-30-projects/tree/main/03-guess-my-number)              |      [Live Demo](https://js-guess-my-number.onrender.com)      |
 | 04  |                   [Just Paint](https://github.com/ajfm88/javascript-30-projects/tree/main/04-just-paint)                   |          [Live Demo](https://just-paint.onrender.com)          |
-| 05  |            [Animated Template](https://github.com/ajfm88/javascript-30-projects/tree/main/05-animated-template)            |      [Live Demo](https://animated-template.onrender.com)       |
+| 05  |                       [EduWeb](https://github.com/ajfm88/javascript-30-projects/tree/main/05-eduweb)                       |          [Live Demo](https://js-eduweb.onrender.com)           |
 | 06  |                  [Candy Crush](https://github.com/ajfm88/javascript-30-projects/tree/main/06-candy-crush)                  |        [Live Demo](https://js-candy-crush.onrender.com)        |
 | 07  |             [Wikipedia Search](https://github.com/ajfm88/javascript-30-projects/tree/main/07-wikipedia-search)             |     [Live Demo](https://js-wikipedia-search.onrender.com)      |
 | 08  |                     [Pig Game](https://github.com/ajfm88/javascript-30-projects/tree/main/08-pig-game)                     |         [Live Demo](https://js-pig-game.onrender.com)          |
