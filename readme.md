@@ -27,7 +27,8 @@
 | 23  |                      [Forkify](https://github.com/ajfm88/javascript-30-projects/tree/main/23-forkify)                      |    [Live Demo](https://forkify-recipe-search.onrender.com)     |
 | 24  |            [Two-Player Tetris](https://github.com/ajfm88/javascript-30-projects/tree/main/24-two-player-tetris)            |      [Live Demo](https://two-player-tetris.onrender.com)       |
 | 25  |          [Foodie Burger Joint](https://github.com/ajfm88/javascript-30-projects/tree/main/25-foodie-burger-joint)          |        [Live Demo](https://foodie-burger.onrender.com)         |
-| 26  |             [Prince Of Persia](https://github.com/ajfm88/javascript-30-projects/tree/main/26-prince-of-persia)             |               [Live Demo](https://princejs.com)                |
+| 26  |                [Tetris Attack](https://github.com/ajfm88/javascript-30-projects/tree/main/26-tetris-attack)                |       [Live Demo](https://js-tetris-attack.onrender.com)       |
 | 27  |            [Grilli Restaurant](https://github.com/ajfm88/javascript-30-projects/tree/main/27-grilli-restaurant)            |            [Live Demo](https://grilli.onrender.com)            |
-| 28  |                [Tetris Attack](https://github.com/ajfm88/javascript-30-projects/tree/main/28-tetris-attack)                |       [Live Demo](https://js-tetris-attack.onrender.com)       |
+| 28  |             [Prince Of Persia](https://github.com/ajfm88/javascript-30-projects/tree/main/28-prince-of-persia)             |               [Live Demo](https://princejs.com)                |
 | 29  |                      [FitLife](https://github.com/ajfm88/javascript-30-projects/tree/main/29-fitlife)                      |           [Live Demo](https://fitlife.onrender.com)            |
+| 30  |       [Norman The Necromancer](https://github.com/ajfm88/javascript-30-projects/tree/main/30-norman-the-necromancer)       |    [Live Demo](https://norman-the-necromancer.netlify.app)     |
