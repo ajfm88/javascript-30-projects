@@ -65,7 +65,7 @@ Prince of Persia (MS-DOS version) reimplementation written in HTML5 & JavaScript
 - Install [Node.js](https://nodejs.org)
 - Clone: `https://github.com/ajfm88/javascript-30-projects.git`
 - Terminal:
-  - `cd 26-prince-of-persia`
+  - `cd 28-prince-of-persia`
   - `npm install`
   - `npm start`
 - Browser: `localhost:8080`
