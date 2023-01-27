@@ -1,4 +1,4 @@
-# 30 Web Projects With Vanilla JavaScript
+# 30 Web Projects - HTML5, CSS3 & JavaScript ES6
 
 |  #  |                                                          Project                                                           |                           Live Demo                            |
 | :-: | :------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------: |
@@ -20,7 +20,7 @@
 | 16  |                  [Minesweeper](https://github.com/ajfm88/javascript-30-projects/tree/main/16-minesweeper)                  |        [Live Demo](https://js-minesweeper.onrender.com)        |
 | 17  |                       [Wordle](https://github.com/ajfm88/javascript-30-projects/tree/main/17-wordle)                       |       [Live Demo](https://js-wordle-clone.onrender.com)        |
 | 18  |                        [Mapty](https://github.com/ajfm88/javascript-30-projects/tree/main/18-mapty)                        |  [Live Demo](https://mapty-workout-tracking-app.onrender.com)  |
-| 19  |                         [Pong](https://github.com/ajfm88/javascript-30-projects/tree/main/19-pong)                         |           [Live Demo](https://js-pong.onrender.com)            |
+| 19  |            [Drew Hays - Portfolio Website](https://github.com/ajfm88/javascript-30-projects/tree/19-drew-hays)             | [Live Demo](https://drew-hays-personal-portfolio.netlify.app)  |
 | 20  |               [Space Invaders](https://github.com/ajfm88/javascript-30-projects/tree/main/20-space-invaders)               |      [Live Demo](https://js-space-invaders.onrender.com)       |
 | 21  |                  [Comfy Store](https://github.com/ajfm88/javascript-30-projects/tree/main/21-comfy-store)                  |         [Live Demo](https://comfy-store.onrender.com)          |
 | 22  |                    [Solitaire](https://github.com/ajfm88/javascript-30-projects/tree/main/22-solitaire)                    |         [Live Demo](https://js-solitaire.onrender.com)         |
