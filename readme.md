@@ -1,4 +1,4 @@
-# 30 Web Projects - HTML5, CSS3 & JavaScript ES6
+# 30 Web Projects - HTML5, CSS3 & JavaScript ES6.
 
 |  #  |                                                          Project                                                           |                           Live Demo                            |
 | :-: | :------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------: |
@@ -12,7 +12,7 @@
 | 08  |                     [Pig Game](https://github.com/ajfm88/javascript-30-projects/tree/main/08-pig-game)                     |         [Live Demo](https://js-pig-game.onrender.com)          |
 | 09  |                   [Snake Game](https://github.com/ajfm88/javascript-30-projects/tree/main/09-snake-game)                   |        [Live Demo](https://js-snake-game.onrender.com)         |
 | 10  |               [Simply Recipes](https://github.com/ajfm88/javascript-30-projects/tree/main/10-simply-recipes)               |        [Live Demo](https://simply-recipes.onrender.com)        |
-| 11  |                         [2048](https://github.com/ajfm88/javascript-30-projects/tree/main/11-2048)                         |           [Live Demo](https://js-2048.onrender.com)            |
+| 11  |                  [2048 - Daily](https://github.com/ajfm88/javascript-30-projects/tree/main/11-2048-daily)                  |        [Live Demo](https://js-2048-daily.onrender.com)         |
 | 12  |                [RPG Card Game](https://github.com/ajfm88/javascript-30-projects/tree/main/12-rpg-card-game)                |        [Live Demo](https://rpg-card-game.onrender.com)         |
 | 13  |                      [Bankist](https://github.com/ajfm88/javascript-30-projects/tree/main/13-bankist)                      |       [Live Demo](https://bankist-website.onrender.com)        |
 | 14  |         [Chrome Dinosaur Game](https://github.com/ajfm88/javascript-30-projects/tree/main/14-chrome-dinosaur-game)         |   [Live Demo](https://js-chrome-dinosaur-game.onrender.com)    |
